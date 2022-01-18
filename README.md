@@ -1,0 +1,3 @@
+# nginx-app
+
+* ArgoCD Practice
